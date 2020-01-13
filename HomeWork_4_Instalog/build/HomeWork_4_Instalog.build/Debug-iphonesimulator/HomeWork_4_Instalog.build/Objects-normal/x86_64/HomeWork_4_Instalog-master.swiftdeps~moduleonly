@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "030a83ebe9aad0246befd60f5c6789fb"
+build_time: [1578415867, 441144000]
+inputs:
+  "/Users/saszaniehaj/aliaksandr-niakhai/HomeWork_4_Instalog/HomeWork_4_Instalog/AppDelegate.swift": [1578410920, 396777756]
+  "/Users/saszaniehaj/aliaksandr-niakhai/HomeWork_4_Instalog/HomeWork_4_Instalog/SceneDelegate.swift": [1578410921, 330244658]
+  "/Users/saszaniehaj/aliaksandr-niakhai/HomeWork_4_Instalog/HomeWork_4_Instalog/StartViewController.swift": [1578411322, 910592368]
